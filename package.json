@@ -1,0 +1,6 @@
+{
+  "name": "surfingcoder-pinball",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node --test physics.test.mjs" }
+}
